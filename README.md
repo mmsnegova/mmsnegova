@@ -21,7 +21,7 @@
 
 ### Мои проекты
 
-![movies-explorer-frontend](https://github.com/mmsnegova/movies-explorer-frontend)
+![movies-explorer-frontend](https://img.shields.io/badge/-movies-explorer-frontend-090909?style=for-the-badge&logo=movies-explorer-frontend&logoColor=27A0D9)](https://github.com/mmsnegova/movies-explorer-frontend)
 
 ### Моя статистика
 <div id="stat">
