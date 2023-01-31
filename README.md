@@ -20,7 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="30" height="30"/>&nbsp;
 
 ### Мои проекты
-[![movies-explorer-frontend](https://img.shields.io/badge/-movies-explorer-frontend-090909?style=for-the-badge&logoColor=27A0D9)](https://github.com/mmsnegova/movies-explorer-frontend)
+[![movies-explorer-frontend](https://img.shields.io/badge/-moviesexplorerfrontend-090909?style=for-the-badge&logoColor=27A0D9)](https://github.com/mmsnegova/movies-explorer-frontend)
 
 ### Моя статистика
 <div id="stat">
