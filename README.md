@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Languages and tools
+### Мой технологический стек
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="30" height="30"/>&nbsp;
@@ -19,8 +19,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="30" height="30"/>&nbsp;
 
+### Мои проекты
 
-### My stat
+![movies-explorer-frontend](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB](https://github.com/mmsnegova/movies-explorer-frontend)
+
+### Моя статистика
 <div id="stat">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmsnegova&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmsnegova&theme=github_dark"/>
