@@ -21,6 +21,10 @@
 
 ### Мои проекты
 [![movies_explorer_frontend](https://img.shields.io/badge/-movies_explorer_frontend-090909?style=for-the-badge&logoColor=27A0D9)](https://github.com/mmsnegova/movies-explorer-frontend)
+[![movies_explorer_api](https://img.shields.io/badge/-movies_explorer_api-090909?style=for-the-badge&logoColor=27A0D9)](https://github.com/mmsnegova/movies-explorer-api)
+[![mesto_react](https://img.shields.io/badge/-mesto_react-090909?style=for-the-badge&logoColor=27A0D9)](https://github.com/mmsnegova/mesto-react)
+[![russian_travel](https://img.shields.io/badge/-russian_travel-090909?style=for-the-badge&logoColor=27A0D9)](https://github.com/mmsnegova/russian-travel)
+
 
 ### Моя статистика
 <div id="stat">
