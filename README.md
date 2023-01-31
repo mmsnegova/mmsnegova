@@ -20,7 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="30" height="30"/>&nbsp;
 
 ### Мои проекты
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
+[![Telegram](https://img.shields.io/badge/-fffffff-090909?style=for-the-badge&logo=fffffff&logoColor=27A0D9)](https://t.me/the_cybermania)
 
 ### Моя статистика
 <div id="stat">
