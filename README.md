@@ -21,7 +21,7 @@
 
 ### Мои проекты
 
-![movies-explorer-frontend](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB](https://github.com/mmsnegova/movies-explorer-frontend)
+![movies-explorer-frontend](https://github.com/mmsnegova/movies-explorer-frontend)
 
 ### Моя статистика
 <div id="stat">
