@@ -26,7 +26,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/snegova_96)
 
 ### Моя статистика
-<div>
+<div align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmsnegova&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmsnegova&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmsnegova&theme=github_dark"/>
