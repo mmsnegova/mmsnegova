@@ -21,6 +21,10 @@
 [![mesto_react](https://img.shields.io/badge/-mesto_react-090909?style=for-the-badge&logoColor=27A0D9)](https://github.com/mmsnegova/mesto-react)
 [![russian_travel](https://img.shields.io/badge/-russian_travel-090909?style=for-the-badge&logoColor=27A0D9)](https://github.com/mmsnegova/russian-travel)
 
+### Социальные сети
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mmsnegova)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/sukhanova_96)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/snegova_96)
 
 ### Моя статистика
 <div>
