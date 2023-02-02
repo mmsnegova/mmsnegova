@@ -3,7 +3,8 @@
 - 🌱 Изучаю фронтенд-разработку
 - 🚀 Стремлюсь к работе над реальными проектами
 - 👨‍💻 Хочу работать вместе с талантливыми и опытными коллегами
-
+- 💬 Для связи со мной: [Telegram] (https://t.me/mmsnegova "hover display"), [email] (mmsnegova@gmail.com "hover display")
+- 
 ### Мой технологический стек
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="30" height="30"/>&nbsp;
