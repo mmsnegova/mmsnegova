@@ -22,7 +22,7 @@
 
 
 ### Моя статистика
-<div id="stat">
+<div>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mmsnegova&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mmsnegova&theme=github_dark"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mmsnegova&theme=github_dark"/>
