@@ -4,6 +4,9 @@
 - 🚀 Стремлюсь к работе над реальными проектами
 - 👨‍💻 Хочу работать вместе с талантливыми и опытными коллегами
 
+### Контакты
+[![Telegram](https://img.shields.io/badge/-@mmsnegova-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]
+
 ### Мой технологический стек
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="30" height="30"/>&nbsp;
@@ -20,10 +23,8 @@
 [![mesto_react](https://img.shields.io/badge/-mesto_react-090909?style=for-the-badge&logoColor=27A0D9)](https://github.com/mmsnegova/mesto-react)
 [![russian_travel](https://img.shields.io/badge/-russian_travel-090909?style=for-the-badge&logoColor=27A0D9)](https://github.com/mmsnegova/russian-travel)
 
-### Социальные сети
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mmsnegova)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/sukhanova_96)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/snegova_96)
+
+
 
 ### Моя статистика
 <div align="center">
