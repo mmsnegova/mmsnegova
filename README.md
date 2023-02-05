@@ -5,7 +5,7 @@
 - 👨‍💻 Хочу работать вместе с талантливыми и опытными коллегами
 
 ### Контакты
-[![Telegram](https://img.shields.io/badge/-@mmsnegova-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)]
+![Telegram](https://img.shields.io/badge/-@mmsnegova-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)
 
 ### Мой технологический стек
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="30" height="30"/>&nbsp;
